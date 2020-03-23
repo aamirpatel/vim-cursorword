@@ -1,4 +1,4 @@
-# vim-cursorword
+# vim-cursorword used for current cursor location 
 ## Underlines the word under the cursor
 ![vim-cursorword](https://raw.githubusercontent.com/wiki/itchyny/vim-cursorword/image/image.gif)
 
